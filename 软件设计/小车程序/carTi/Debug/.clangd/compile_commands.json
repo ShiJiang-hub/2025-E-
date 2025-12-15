@@ -1,0 +1,37 @@
+[
+   {
+      "directory" : "C:/Users/Lenovo/workspace_ccstheia/carTi/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/H\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/lib/clang/18/include\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Lenovo/workspace_ccstheia/carTi/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "C:/Users/Lenovo/workspace_ccstheia/carTi/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/H\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/lib/clang/18/include\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/C/PID.c"
+   },
+   {
+      "directory" : "C:/Users/Lenovo/workspace_ccstheia/carTi/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/H\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/lib/clang/18/include\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/C/Trace.c"
+   },
+   {
+      "directory" : "C:/Users/Lenovo/workspace_ccstheia/carTi/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/H\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/lib/clang/18/include\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/C/control.c"
+   },
+   {
+      "directory" : "C:/Users/Lenovo/workspace_ccstheia/carTi/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/H\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/lib/clang/18/include\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/C/dataRead.c"
+   },
+   {
+      "directory" : "C:/Users/Lenovo/workspace_ccstheia/carTi/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/H\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/lib/clang/18/include\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/C/entry.c"
+   },
+   {
+      "directory" : "C:/Users/Lenovo/workspace_ccstheia/carTi/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/SYS/H\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi\" -I\"C:/Users/Lenovo/workspace_ccstheia/carTi/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c++/v1\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/lib/clang/18/include\" -isystem\"D:/TI/ccs/tools/compiler/ti-cgt-armllvm_4.0.2.LTS/include/c\" -xc",
+      "file"      : "C:/Users/Lenovo/workspace_ccstheia/carTi/empty.c"
+   }
+]
